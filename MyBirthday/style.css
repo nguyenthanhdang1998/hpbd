@@ -420,10 +420,12 @@ h1 {
     background-image: url(../hinhanh/hinhnen4.jpg);
     background-size: cover;
 }
-
+.swal-title{
+    font-size: 30px;
+}
 .swal-text {
     
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 200;
     word-spacing: 5px;
 }
