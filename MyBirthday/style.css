@@ -420,16 +420,21 @@ h1 {
     background-image: url(../hinhanh/hinhnen4.jpg);
     background-size: cover;
 }
-.swal-title{
-    font-size: 35px;
+.swal-modal{
+    background-color:rgba(252, 218, 155, 0.678);
+    height: auto;
+    width:auto;
 }
-.swal-text {
-    
-    font-size: 35px;
-    font-weight: 200;
-    word-spacing: 5px;
+.swal-title{
+    font-size: 30px;
+    color: rgb(170, 52, 91);
 }
 
+.swal-text {
+    color: rgb(124, 2, 43);
+    font-size: 35px;
+    
+}
 /* Hiệu ứng pháo hoa*/
 .pyro > .before, .pyro > .after {
     position: absolute;
