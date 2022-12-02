@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../flippin-countdown/dist"
+		},
+		{
+			"path": "../flippin-countdown/hinhanh"
+		},
+		{
+			"path": "../flippin-countdown/MyBirthday-main"
+		},
+		{
+			"path": "../flippin-countdown/src"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyBirthday-main"
+	}
+}

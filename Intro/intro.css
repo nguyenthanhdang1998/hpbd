@@ -1,0 +1,46 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+body {
+  cursor: none;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
+  font-family: Courier;
+  
+}
+
+.container {
+  display: grid;
+  place-items: center;
+  background: #fd9fab;
+  width: 100%;
+  height: 100vh;
+  overflow-y: hidden;
+  background-image: url(../hinhanh/hinhnen1.jpg);
+  background-size: cover;
+  background-position: center;
+  
+}
+
+.container * {
+  z-index: 1;
+}
+
+.counter {
+  display: grid;
+  place-items: center;
+  width: 50%;
+  height: 50%;
+}
+
+.digit {
+  
+  text-align: center;
+  text-shadow: 18px 20px 0px rgba(255, 228, 238, 0.767);
+  font-size: 20em;
+  color: rgba(255, 255, 255, 0.97);
+  -webkit-text-stroke-color: #fa6d90e7;
+  -webkit-text-stroke-width: thin;
+  font-weight: bolder;
+}
