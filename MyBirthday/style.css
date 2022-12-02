@@ -217,7 +217,7 @@ span {
 .avatar {
     cursor: pointer;
     position: absolute;
-    top: 50%;
+    top: 35%;
     left: calc(50% - 100px);
 }
 
