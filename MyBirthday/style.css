@@ -421,7 +421,7 @@ h1 {
     background-size: cover;
 }
 .swal-modal{
-    background-color:rgba(252, 218, 155, 0.678);
+    background-color:rgba(252, 218, 155, 0.4);
     height: auto;
     width:auto;
 }
